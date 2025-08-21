@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img alt="ZINGEN" src="preview.jpg.jpg" width="100%">
+  <img alt="ZINGEN" src="assets/.github/preview.jpg.jpg.png" width="100%">
 </p>
 
 <br>
